@@ -1,4 +1,4 @@
-@extends('themes.welcome.main')
+@extends('themes.auth.main')
 
 @section('content')
 

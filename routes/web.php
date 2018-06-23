@@ -12,5 +12,5 @@
 */
 
 Route::get('/', function () {
-    return view('themes.welcome.welcome');
+    return view('index');
 });

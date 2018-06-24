@@ -32,7 +32,7 @@ $post->title=$request->title; <br>
 $post->save(); <br>
 ect  <br>
 <a href="https://laravel.com/docs/5.6/queries" > Query Builder</a><br>
-#how to use routes
+#how to use routes<br>
 routes/web.php<br>
 
 

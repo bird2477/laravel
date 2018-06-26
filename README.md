@@ -17,10 +17,9 @@ install node js<br>
 cmd to workjob<br>
 npm install<br>
 npm run development<br>
-
-Add the following to the head area of Themes<br>
- <a href="https://github.com/bird2477/laravel/blob/master/resources/views/themes/welcome/main.blade.php" >example</a><br>
- <link href="/css/app.css" rel ><br>
+Add the following to the head area of Themes
+<a href="https://github.com/bird2477/laravel/blob/master/resources/views/themes/welcome/main.blade.php" >example</a><br>
+<link href="/css/app.css"  ><br>
 <script src"/js/app.js" ></script><br>
 #read command php artisan<br>
 php  artisan list <br>

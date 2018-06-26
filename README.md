@@ -4,8 +4,8 @@ how to management themes<br>
  <a href="https://github.com/bird2477/laravel/blob/master/resources/views/themes/welcome/main.blade.php" >example<a><br>
 @include('themes.welcome.componets.nav')<br>
 
-how to use themes<br>
-<a href="https://github.com/bird2477/laravel/blob/master/resources/views/index.blade.php" >example<a>
+#how to use themes<br>
+<a href="https://github.com/bird2477/laravel/blob/master/resources/views/index.blade.php" >example<a><br>
 load themes<br>
 extends('themes.welcome.main')<br>
 @section('content')<br>
